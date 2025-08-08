@@ -66,23 +66,6 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: expected
-    attributes:
-      label: 기대 동작
-      placeholder: 예) 로그인 성공 후 대시보드로 이동해야 함
-    validations:
-      required: true
-
-  - type: textarea
-    id: actual
-    attributes:
-      label: 실제 동작 / 오류 메시지
-      placeholder: 예) "500 Internal Server Error" 토스트 노출, 콘솔에 TypeError
-      render: shell
-    validations:
-      required: true
-
   - type: dropdown
     id: severity
     attributes:

@@ -33,6 +33,18 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: storage
+    attributes:
+      label: 증상이 발생하는 종류
+      description: 중복 선택 가능
+      multiple: true
+      options:
+        - 클라우드 소설 (Save on Muvel Cloud)
+        - 로컬 소설 (Save on Local)
+    validations:
+      required: true
+
   - type: textarea
     id: environment
     attributes:
@@ -45,14 +57,6 @@ body:
         - Network: 사내 Wi-Fi (프록시 사용)
     validations:
       required: false
-
-  - type: input
-    id: summary
-    attributes:
-      label: 요약(한 줄)
-      placeholder: 예) 로그인 버튼 클릭 시 500 에러 발생
-    validations:
-      required: true
 
   - type: textarea
     id: steps

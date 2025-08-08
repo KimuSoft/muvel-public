@@ -1,0 +1,123 @@
+name: 🐞 Bug report
+description: 버그를 발견했어요
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        가능한 한 자세히 적어주세요. 파일(스크린샷/영상/로그)은 이슈 본문에 드래그해 첨부할 수 있어요.
+
+  - type: input
+    id: version
+    attributes:
+      label: 발생한 뮤블 버전
+      description: 예) v2.5.0
+      placeholder: v0.0.0
+    validations:
+      required: true
+
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 증상이 발생하는 플랫폼
+      description: 중복 선택 가능
+      multiple: true
+      options:
+        - Web
+        - Windows
+        - macOS
+        - Linux
+        - Android
+        - iOS
+    validations:
+      required: true
+
+  - type: textarea
+    id: environment
+    attributes:
+      label: 자세한 환경 설명
+      description: 브라우저/앱 버전, OS/디바이스, 네트워크, 지역 등
+      placeholder: |
+        - OS: Windows 11 23H2
+        - Browser/App: Chrome 126.0.0 / 데스크톱 앱 1.4.0
+        - Device: MacBook Pro M2 / Galaxy S23
+        - Network: 사내 Wi-Fi (프록시 사용)
+    validations:
+      required: false
+
+  - type: input
+    id: summary
+    attributes:
+      label: 요약(한 줄)
+      placeholder: 예) 로그인 버튼 클릭 시 500 에러 발생
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 방법(steps to reproduce)
+      placeholder: |
+        1) ... 페이지 접속
+        2) ... 버튼 클릭
+        3) ... 화면 전환 후 에러 표시
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대 동작
+      placeholder: 예) 로그인 성공 후 대시보드로 이동해야 함
+    validations:
+      required: true
+
+  - type: textarea
+    id: actual
+    attributes:
+      label: 실제 동작 / 오류 메시지
+      placeholder: 예) "500 Internal Server Error" 토스트 노출, 콘솔에 TypeError
+      render: shell
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: 심각도
+      options:
+        - S1 - Critical (서비스 중단/데이터 손상)
+        - S2 - Major (핵심 기능 불가, 우회 어려움)
+        - S3 - Minor (우회 가능, 영향 제한적)
+        - S4 - Trivial (사소한 문제 )
+    validations:
+      required: true
+
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: 재현 빈도
+      options:
+        - 항상 (100%)
+        - 자주 (>50%)
+        - 가끔 (<50%)
+        - 1회/간헐
+    validations:
+      required: true
+
+  - type: textarea
+    id: conditions
+    attributes:
+      label: 발생 조건 / 트리거
+      description: 특정 계정/권한, 최초 설치, 느린 네트워크, 다크모드 등 조건이 있다면 적어주세요.
+      placeholder: 예) 첫 로그인 직후, 다크모드에서만, VPN 사용 시
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 스크린샷/영상/로그
+      description: 가능한 경우 첨부해주세요.
+      placeholder: 이 칸에 붙여넣거나, 이슈 본문에 드래그&드롭으로 첨부하세요.
+      render: shell

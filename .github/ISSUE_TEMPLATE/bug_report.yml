@@ -21,7 +21,7 @@ body:
   - type: dropdown
     id: platform
     attributes:
-      label: 증상이 발생하는 플랫폼
+      label: 증상이 확인된 플랫폼
       description: 중복 선택 가능
       multiple: true
       options:

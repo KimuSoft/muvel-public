@@ -1,7 +1,7 @@
 name: 🐞 Bug report
 description: 버그를 발견했어요
-title: "[Bug] "
-labels: ["bug"]
+title: ""
+issue_type: "Bug"
 assignees: []
 body:
   - type: markdown
@@ -103,4 +103,3 @@ body:
       label: 스크린샷/영상/로그
       description: 가능한 경우 첨부해주세요.
       placeholder: 이 칸에 붙여넣거나, 이슈 본문에 드래그&드롭으로 첨부하세요.
-      render: shell

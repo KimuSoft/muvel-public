@@ -1,6 +1,6 @@
 name: 🐞 Bug report
 description: 버그를 발견했어요
-issue_type: "Bug"
+type: "Bug"
 assignees: []
 body:
   - type: markdown

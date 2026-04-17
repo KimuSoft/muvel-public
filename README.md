@@ -39,7 +39,50 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 
 * Latest LTS: https://github.com/KimuSoft/muvel-public/releases/latest
 
-## 개발 인원
+## Contributers
+### Current Members
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<div align="center">
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://kimustory.net/members/kimu">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/850cf02a-efff-4eff-9736-f9e04a3333aa">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d42f6f45-da42-43db-9f88-47d8e1784402">
+        <img src="https://github.com/user-attachments/assets/d42f6f45-da42-43db-9f88-47d8e1784402" alt="Kimu" width="150px" />
+      </picture>
+        <br />
+        <sub><b>키뮤</b></sub></a>
+      </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kimustory.net/members/paring">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/1845f082-b6e8-428b-a3ef-1b05b566d136">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/813b8772-f231-4722-9ed8-d0ed8856f741">
+        <img src="https://github.com/user-attachments/assets/813b8772-f231-4722-9ed8-d0ed8856f741" alt="Paring" width="150px" />
+      </picture>
+        <br />
+        <sub><b>파링</b></sub></a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://kimustory.net/members/kimjang">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d6285466-6017-4bc1-bfc2-2407b65ddf0d">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5966eeaa-d2f8-4d0d-a8f1-95fae2a21d8e">
+        <img src="https://github.com/user-attachments/assets/5966eeaa-d2f8-4d0d-a8f1-95fae2a21d8e" alt="Kimu" width="150px" />
+      </picture>
+          <br />
+          <sub><b>킴장</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+
 - **프로젝트 매니저**: 키뮤 (@Kimu-Latilus)
 - **개발**
   - 프론트엔드: 키뮤 (@Kimu-Latilus), 아르 (@Aleu0091)
@@ -51,3 +94,10 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
   - iOS 대응: 코로 (@hollume\_)
 - **디자인**
   - UI/UX: 키뮤 (@Kimu-Latilus)
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+### Contributers
+

@@ -20,6 +20,9 @@
   <a href="https://discord.gg/jAbqy6JXsk">
     <img alt="Discord" src="https://img.shields.io/discord/1381188941679558747?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" />
   </a>
+  <a href="https://discord.gg/jAbqy6JXsk">
+  <img alt="Discord" src="https://img.shields.io/badge/dynamic/json?label=&query=approximate_member_count&url=https%3A%2F%2Fdiscord.com%2Fapi%2Finvites%2FjAbqy6JXsk%3Fwith_counts%3Dtrue&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" />
+</a>
 </p>
 
 <br />

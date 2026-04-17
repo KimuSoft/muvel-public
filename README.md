@@ -84,7 +84,7 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 
 * **키뮤** (@Kimu-Latilus): 기획, 개발, UI/UX 디자인, 운영, 커뮤니티 관리 등 프로젝트 전반의 모든 작업부터 유지보수까지를 거의 모두 담당합니다. 뮤블에 문제가 있을 경우 이 사람에게 문의하세요.
 * **파링** (@paring-chan): 플러그인 시스템, 아키텍처 디자인, 빌드 및 프로덕션 설계, 최적화 설계, 고수준 기능 등 전문 기술적인 부분을 담당합니다. iOS/macOS/linux 크로스플랫폼도 맡습니다. 일반 기능 개발은 담당하지 않습니다.
-* **킴장** (@hostkimjang): 서버 제공 및 서버 유지 · 보수
+* **킴장** (@hostkimjang): 서버 인프라 유지 · 보수
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->

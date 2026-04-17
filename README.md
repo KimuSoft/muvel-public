@@ -1,12 +1,34 @@
-# 뮤블 (Muvel)
+<p align="center">
+  <a href="https://github.com/KimuSoft/muvel-public">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3e5c5912-ee69-42ea-8112-830fe3191ed2">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cf5cb13e-caaf-47dc-bd08-338622510f43">
+      <img src="https://github.com/user-attachments/assets/3e5c5912-ee69-42ea-8112-830fe3191ed2" alt="Muvel Logo" width="300" />
+    </picture>
+  </a>
+</p>
 
-키뮤스토리에서 개발한 소설 집필 프로그램입니다.
+<h1 align="center">뮤블: 작가를 위한 최고의 글쓰기 도구</h1>
+<br />
 
-![전체 다운로드 수](https://img.shields.io/github/downloads/KimuSoft/muvel-public/total)
-![최신 릴리즈 다운로드 수](https://img.shields.io/github/downloads/KimuSoft/muvel-public/latest/total)
 
-> 당신의 이야기를 위한 최고의 친구
 
+<p align="center">
+  <a href="https://github.com/KimuSoft/muvel-public">
+    <img alt="Github Stars" src="https://img.shields.io/github/stars/KimuSoft/muvel-public?style=social" />
+  </a>
+  <img alt="Total Downloads" src="https://img.shields.io/github/downloads/KimuSoft/muvel-public/total" />
+  <img alt="Total Downloads" src="https://img.shields.io/github/downloads/KimuSoft/muvel-public/latest/total" />
+  <a href="https://discord.gg/jAbqy6JXsk">
+    <img alt="Discord" src="https://img.shields.io/discord/1381188941679558747?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" />
+  </a>
+</p>
+
+<br />
+
+> 📢 This repository is dedicated to issue tracking and releases only; it does not contain any source code.
+
+[키뮤스토리](https://kimustory.net/)에서 개발한 스토리 집필 프로그램입니다.
 
 ## 개발 인원
 - **프로젝트 매니저**: 키뮤 (@Kimu-Latilus)

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/KimuSoft/muvel-public">
+  <a href="https://muvel.app">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3e5c5912-ee69-42ea-8112-830fe3191ed2">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/cf5cb13e-caaf-47dc-bd08-338622510f43">
@@ -55,7 +55,7 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
         <img src="https://github.com/user-attachments/assets/d42f6f45-da42-43db-9f88-47d8e1784402" alt="Kimu" width="150px" />
       </picture>
         <br />
-        <sub><b>키뮤</b></sub></a>
+        <sub><b>키뮤 (Kimu) 👑</b></sub></a>
       </td>
       <td align="center" valign="top" width="14.28%"><a href="https://kimustory.net/members/paring">
       <picture>
@@ -64,7 +64,7 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
         <img src="https://github.com/user-attachments/assets/813b8772-f231-4722-9ed8-d0ed8856f741" alt="Paring" width="150px" />
       </picture>
         <br />
-        <sub><b>파링</b></sub></a>
+        <sub><b>파링 (Paring)</b></sub></a>
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://kimustory.net/members/kimjang">
@@ -74,7 +74,7 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
         <img src="https://github.com/user-attachments/assets/5966eeaa-d2f8-4d0d-a8f1-95fae2a21d8e" alt="Kimu" width="150px" />
       </picture>
           <br />
-          <sub><b>킴장</b></sub>
+          <sub><b>킴장 (Kimjang) </b></sub>
         </a>
       </td>
     </tr>
@@ -82,22 +82,14 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 </table>
 </div>
 
-
-- **프로젝트 매니저**: 키뮤 (@Kimu-Latilus)
-- **개발**
-  - 프론트엔드: 키뮤 (@Kimu-Latilus), 아르 (@Aleu0091)
-  - 백엔드(클라우드): 키뮤 (@Kimu-Latilus)
-  - 백엔드(로컬): 키뮤 (@Kimu-Latilus)
-  - macOS 대응: 아르 (@Aleu0091), 코로 (@hollume\_)
-  - Linux 대응: 코로 (@hollume\_)
-  - Android 대응: 코로 (@hollume\_)
-  - iOS 대응: 코로 (@hollume\_)
-- **디자인**
-  - UI/UX: 키뮤 (@Kimu-Latilus)
+* **키뮤** (@Kimu-Latilus): 기획, 개발, UI/UX 디자인, 운영, 커뮤니티 관리 등 프로젝트 전반의 모든 작업부터 유지보수까지를 거의 모두 담당합니다. 뮤블에 문제가 있을 경우 이 사람에게 문의하세요.
+* **파링** (@paring-chan): 플러그인 시스템, 아키텍처 디자인, 빌드 및 프로덕션 설계, 최적화 설계, 고수준 기능 등 전문 기술적인 부분을 담당합니다. iOS/macOS/linux 크로스플랫폼도 맡습니다. 일반 기능 개발은 담당하지 않습니다.
+* **킴장** (@hostkimjang): 서버 제공 및 서버 유지 · 보수
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### Contributers
-
+- 코로 (@hollume\_): 구 macOS, Linux, Android, iOS 크로스플랫폼 프로덕션 시스템 설계, 구 뮤블 폰트 시스템 설계
+- 아르 (@Aleu0091): 일부 UI 기능 도움, 어카운트 시스템 도움

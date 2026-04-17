@@ -41,6 +41,9 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 
 ## Contributers
 ### Current Members
+
+뮤블 개발에 참여하고 있는 키뮤스토리 멤버는 다음과 같습니다.
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -91,5 +94,8 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ### Contributers
+
+과거 몇 가지 일부 기능에 도움을 주셨던 분들은 아래와 같습니다.
+
 - 코로 (@hollume\_): 구 macOS, Linux, Android, iOS 크로스플랫폼 프로덕션 시스템 설계, 구 뮤블 폰트 시스템 설계
 - 아르 (@Aleu0091): 일부 UI 기능 도움, 어카운트 시스템 도움

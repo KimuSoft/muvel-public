@@ -42,7 +42,7 @@ Android 사용자들은 [Play Store](https://play.google.com/store/apps/details?
 ## Contributers
 ### Current Members
 
-뮤블 개발에 참여하고 있는 키뮤스토리 멤버는 다음과 같습니다.
+뮤블 프로젝트에 참여하고 있는 키뮤스토리 멤버는 다음과 같습니다.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
